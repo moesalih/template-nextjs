@@ -16,6 +16,7 @@
 		"@opennextjs/cloudflare": "1.14.0",
 		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
+		"cn": "^0.3.0",
 		"lucide-react": "^1.34.0",
 		"next": "16.0.7",
 		"react": "19.2.1",
